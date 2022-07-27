@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: Bfaf8f ; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-size:x-large;
+}
+
+.bg{
+    margin: 200px;
+    position: center;
+    border: 2px solid rgb(51, 21, 30);
+    background-color: aliceblue;
+    opacity: 0.9;
+    display: flex;
+    align-items: center 
+    height: 100px;
+
+}
+body {
+    background-image: url("scoop.jpg");
+    background-repeat: repeat;
+}
+button{
+    height: 150px;
+    width: 100px;
+}
